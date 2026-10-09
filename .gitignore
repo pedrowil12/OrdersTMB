@@ -1,0 +1,8 @@
+.env
+.vs/
+**/bin/
+**/obj/
+**/node_modules/
+**/.next/
+*.user
+TestResults/

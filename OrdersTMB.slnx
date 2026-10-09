@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".dockerignore" />
+    <File Path=".env" />
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="OrdersTMB.Shared/OrdersTMB.Shared.csproj" Id="2c7fded1-7414-4c8b-aac1-898628c48a31" />
+  <Project Path="OrdersTMB.Worker/OrdersTMB.Worker.csproj" Id="48ef07c0-e830-401b-8231-80462005f1d2" />
+  <Project Path="OrdersTMB/OrdersTMB.csproj" />
+</Solution>
